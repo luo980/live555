@@ -1,2 +1,8 @@
 For documentation and instructions for building this software,
 see <http://www.live555.com/liveMedia/>
+
+## little bug fix
+
+Add C++20 standard options to compiler flags on Linux Platform
+
+use clang & clang++ for default compiler
